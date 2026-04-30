@@ -1,1 +1,9 @@
 # Checkpoint2-Python
+
+Fernando Lembo - RM: 570228
+
+Gustavo Russo - RM: 569283
+
+Guilherme Muniz - RM: 569521
+
+Ryan Barreto Carlos Dias - RM: 574126
